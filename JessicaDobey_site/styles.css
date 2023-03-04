@@ -3,7 +3,7 @@
 body, html {
   font-family: 'Poppins', sans-serif;
   text-align: center;
-  background-color: rgb(56, 188, 205);
+  background-color: rgb(0, 162, 249);
   color:rgb(16, 46, 55);
 }
 
@@ -38,7 +38,7 @@ hr{
 
   #venmo {
     border: 2px solid white;
-    background-color: #0074de;
+    background-color: #008CFF;
     color:white;
   }
 
