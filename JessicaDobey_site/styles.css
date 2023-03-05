@@ -15,7 +15,7 @@ h1{
 }
 h2{
   margin: 0px;
-  font-size: 125%;
+  font-size: 150%;
   letter-spacing: 5px;
 }
 
@@ -30,8 +30,8 @@ hr{
   border-radius: 50%;
   margin-bottom: 0px;
 }
-article{
-  font-size: 200%;
+p{
+  font-size: 150%;
 }
 
 .button{
