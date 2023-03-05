@@ -25,14 +25,21 @@ hr{
     border: none;
 }
 
+p{
+  font-size: 125%;
+}
+
+article{
+  margin: 4px;
+}
+
+
 #Profile{
   width: 20vw;
   border-radius: 50%;
   margin-bottom: 0px;
 }
-p{
-  font-size: 125%;
-}
+
 
 .button{
   background-color: white;
