@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,800&display=swap');
+
+html,body{
+    height: 100%;
+    background-color: black;
+    color:white;
+}
+
+h1{
+    font-family: 'Shantell Sans', cursive;
+    font-size: 175%;
+    text-align: center;
+
+}
+
+.button{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
