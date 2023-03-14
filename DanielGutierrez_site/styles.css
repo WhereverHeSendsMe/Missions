@@ -30,15 +30,13 @@ body{
     background-color:rgb(108,112,85);
     text-align:center;
 }
-
-p{
-    color: rgb(247, 223, 177);
-    font-size: 200%;
+article{
+  color: rgb(247, 223, 177);
+  font-size: 100%;
 }
 
 #list{
-  color:rgb(247, 223, 177);
-  font-size: 150%;
+
   text-align: left;
   margin-left: 3vw;
 }
