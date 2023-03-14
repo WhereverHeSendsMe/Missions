@@ -42,6 +42,7 @@ article{
 
 .button{
   background-color: white;
+  cursor: pointer;
   padding:0;
   margin:15px;
   width: 150px;
@@ -58,7 +59,7 @@ article{
   color: #24a7ff;
   font-size:175%;
   background-position: center;
-  box-shadow: 0 30px 60px rgba(0,0,0,0.3);
+  box-shadow: 0 30px 50px rgba(0,0,0,0.3);
 }
 .VenmoButton:hover{
   box-shadow: 0 10px 30px rgba(0,0,0,0.3);
@@ -75,7 +76,7 @@ article{
   color: #61c346;
   font-size:175%;
   background-position: center;
-  box-shadow: 0 30px 60px rgba(0,0,0,0.5);
+  box-shadow: 0 30px 50px rgba(0,0,0,0.3);
 }
 .CashAppButton:hover{
   box-shadow: 0 10px 30px rgba(0,0,0,0.5);
