@@ -85,7 +85,6 @@ article{
 .CashAppButton:hover::after{
   box-shadow: 0 10px 30px rgba(0,0,0,0.5);
   transform: scale(.95);
-
 }
 
   #groupPic{
