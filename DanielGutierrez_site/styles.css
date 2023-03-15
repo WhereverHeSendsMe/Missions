@@ -87,6 +87,23 @@ article{
   transform: scale(.95);
 }
 
+.VintageButton{
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: rgb(50, 116, 171);
+  color: #ffffff;
+  font-size:100%;
+  background-position: center;
+  box-shadow: 0 30px 50px rgba(0,0,0,0.3);
+}
+.VintageButton:hover{
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  transform: scale(.95);
+}
+.VintageButton:hover::after{
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  transform: scale(.95);
+}
+
   #harvestImg{
     width: 11em;
     justify-content: baseline;
