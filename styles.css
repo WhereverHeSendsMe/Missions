@@ -2,19 +2,31 @@
 
 html,body{
     height: 100%;
-    background-color: black;
-    color:white;
+    background-color: white;
+    text-align: center;
 }
 
 h1{
+    color:rgb(0, 0, 0);
     font-family: 'Shantell Sans', cursive;
     font-size: 175%;
     text-align: center;
 
 }
 
+.button {
+    background-color: rgb(58, 58, 58);
+    background-image: linear-gradient(to bottom right, red yellow);
 
-.button{
-    text-decoration: none;
+    border-radius: %;
+    font-family: Marker Felt;
+    letter-spacing: 3px;
     color: rgb(255, 255, 255);
-}
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
