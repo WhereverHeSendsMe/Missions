@@ -11,7 +11,10 @@ h1{
     font-family: 'Shantell Sans', cursive;
     font-size: 175%;
     text-align: center;
+}
 
+p{
+    font-family: Marker Felt;
 }
 
 .button {
