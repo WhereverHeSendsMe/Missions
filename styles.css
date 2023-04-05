@@ -8,14 +8,13 @@ html,body{
 
 h1{
     color:rgb(0, 0, 0);
-    font-family: 'Shantell Sans', cursive;
+    font-family: Marker Felt;
     font-size: 175%;
     text-align: center;
 }
 
 p{
     font-family: Marker Felt;
-    font-family: 'Shantell Sans', cursive;
 }
 
 .button {
@@ -32,5 +31,5 @@ p{
     font-size: 20px;
     margin: 4px 2px;
     cursor: pointer;
-    
+
   }
