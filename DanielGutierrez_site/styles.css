@@ -112,6 +112,10 @@ article{
   transform: scale(.95);
 }
 
+#HeAllowed{
+  text-align: left;
+}
+
 #harvestImg{
   width: 11em;
   justify-content: baseline;
