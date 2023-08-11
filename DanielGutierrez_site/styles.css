@@ -132,10 +132,12 @@ article{
 
   .picture{
     background-color: white;
-    margin: 5px;
-    width: 95%;
     font-family: Marker Felt;
     font-size: 3vw;
+    position: relative;
+    text-align: center;
+    width: 80%;
+    margin: 5% 5% 5% 5%;
   }
 
   #img1{
