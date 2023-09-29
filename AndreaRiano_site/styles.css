@@ -5,12 +5,26 @@
   margin-bottom: 0px;
 }
 body{
-  background-color:rgba(255, 207, 143, 0.714);
+  background-color:rgba(229, 130, 0, 0.293);
 text-align: left;
+}
+
+hr{
+  height: 2px;
+  background-color:rgb(0, 0, 0);
+  border: none;
 }
 
 h1{
   text-align: center;
+}
+
+.redLetters{
+  color: red;
+}
+
+.address{
+  text-align: right;
 }
 
 .button{
