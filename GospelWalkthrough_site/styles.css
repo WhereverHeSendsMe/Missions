@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-align: center;
+}
+.image{
+    position: relative;
+    text-align: center;
+    width: 80%;
+    margin: 5% 5% 5% 5%;
+}
